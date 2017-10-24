@@ -1,0 +1,28 @@
+/*
+ Change in headers
+*/
+
+h1{
+  font-size: 20px;
+}
+
+h4{
+  font-size: 10px;
+}
+
+.header__inner{
+  display: block;
+  text-align: center;
+}
+
+h1,h4{
+  text-align: center;
+}
+
+/*
+ Change in tile size
+*/
+
+.tile1,.tile2,.tile3{
+  width: 100%;
+}

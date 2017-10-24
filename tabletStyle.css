@@ -1,0 +1,21 @@
+/*
+Change in headers
+*/
+
+h1{
+  font-size: 22px;
+}
+h4{
+  font-size: 12px;
+}
+
+/*
+Change in tile size
+*/
+
+.tile1,.tile2,.tile3{
+  width: 50%;
+}
+.project__name{
+font-size: 25px;
+}
